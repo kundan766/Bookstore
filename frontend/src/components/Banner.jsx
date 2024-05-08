@@ -20,7 +20,7 @@ function Banner() {
 
 
             </div>
-            <button className="btn btn-secondary mt-7">Secondary</button>
+            <button className="btn btn-secondary mt-7">Get Started</button>
 
          
         </div>
